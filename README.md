@@ -1,59 +1,30 @@
+<h1 align="center">Hi 👋, I'm Jebathurai I Barnabas</h1>
+<h3 align="center">Aspiring Data Scientist from India</h3>
+<img align='right' alt='coding' width='400' src='https://enacteservices.com/wp-content/themes/twentytwenty/images/hire-developer/animation_500_l4zc9j5g.gif'>
 
-[![linkedin](https://user-images.githubusercontent.com/74975910/162624014-004e0abc-a682-4298-9d78-9cc34c6b5e49.svg)](https://www.linkedin.com/in/jebathurai-barnabas-645b3b1ab/) &nbsp;&nbsp;  [![kaggle](https://user-images.githubusercontent.com/74975910/162624054-ac22d4e0-98e7-44c4-b1e9-545f9bcb1ab0.svg)](https://www.kaggle.com/jebathuraiibarnabas)  &nbsp;&nbsp;   <a target='_blank' href = "mailto: jebathurai2511999@gmail.com">![gmail](https://user-images.githubusercontent.com/74975910/162624068-0cdd17e4-ec01-46b9-9ca3-f16a97dce4f7.svg)</a> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jebathurai-jb&label=Profile%20views&color=0e75b6&style=flat" alt="jebathurai-jb" /> </p>
 
+<p align="left"> <a href="https://twitter.com/jebathurai_jb" target="blank"><img src="https://img.shields.io/twitter/follow/jebathurai_jb?logo=twitter&style=for-the-badge" alt="jebathurai_jb" /></a> </p>
 
+- 🌱 I’m currently learning **Data Science**
 
+- 💬 Ask me about **AI, Machine Learning...**
 
-![Alt Text](https://analyticsindiamag.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif)
+- 📫 How to reach me **jebathurai2511999@gmail.com**
 
-## <img src="https://c.tenor.com/mw0Zuc8nL50AAAAC/garfield-waving.gif" width="100" height="100"/> <b>A b o u t  &nbsp;  m e </b>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/jebathurai_jb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jebathurai_jb" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jebathurai-barnabas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jebathurai-barnabas" height="30" width="40" /></a>
+<a href="https://kaggle.com/jebathuraiibarnabas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jebathuraiibarnabas" height="30" width="40" /></a>
+<a href="https://instagram.com/jebathurai_jb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jebathurai_jb" height="30" width="40" /></a>
+</p>
 
-<div class = 'container'>
-    <h3 style='font-family:san-serif;'>Hello world !</h3>
-    ● My name is <b>Jebathurai .I.Barnabas</b>, I use this platform as my place to share my previous works/projects.<br>
-    ● I hope that by visiting my works, you can get to know me better. If you want to contact me, you can contact me via LinkedIn or my personal email.<br>
-    ● Finally, thank you very much for visiting my GitHub profile. <b>Have a nice day</b> 😊
-</div><br><br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## <img src="https://c.tenor.com/78v61xWubAYAAAAC/skills-animated.gif" width="100" height="100"/> <b>S k i l l s </b>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jebathurai-jb&show_icons=true&locale=en&layout=compact" alt="jebathurai-jb" /></p>
 
-<div class="container">
-    <b> Programming Language : </b>    
-</div><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jebathurai-jb&show_icons=true&locale=en" alt="jebathurai-jb" /></p>
 
-![python](https://user-images.githubusercontent.com/74975910/162630073-31d5945b-93a8-4fa9-8ca5-a9c522f12ac1.svg)
-
-<div class="container">
-    <b> Backend : </b>    
-</div><br>
-
-![-flask](https://user-images.githubusercontent.com/74975910/162630176-be15752f-0edd-41e1-9e89-d4e30aa1b022.svg)
-
-<div class="container">
-    <b> Frontend : </b>    
-</div><br>
-
-![-html](https://user-images.githubusercontent.com/74975910/162630228-9938bc4d-fe37-4296-a480-da070bced2e5.svg) &nbsp;&nbsp; ![-css](https://user-images.githubusercontent.com/74975910/162630238-0e28dc79-6e4a-4272-a523-e9324452528a.svg)  &nbsp;&nbsp;  ![-bootstrap](https://user-images.githubusercontent.com/74975910/162630264-ddc132a5-0e15-41df-bd77-639cd9ffa156.svg)
-
-<div class="container">
-    <b> Frontend : </b>    
-</div><br>
-
-![machine-learning](https://user-images.githubusercontent.com/74975910/162630391-dbf40205-861b-4f4f-9eaf-31cbb8532b50.svg) &nbsp;&nbsp;  ![deep-learning (2)](https://user-images.githubusercontent.com/74975910/162630413-14a2ba5f-9136-4a2a-b848-9eb8c9df97fb.svg)
-<br><br><br>
-
-## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFblClm6KEXwGCiFnkMBJL6uUfDvNcXcvGyA&usqp=CAU" width="50" height="50"/> <b> a g g l e </b>
-
-<div class = 'container'>
-    <h4 style='font-family:san-serif;'>Mini Project</h4>
-    ● <a href="https://www.kaggle.com/code/jebathuraiibarnabas/students-performance-eda" target="_blank">Students performance EDA 📊</a><br>
-    ● <a href="https://www.kaggle.com/code/jebathuraiibarnabas/predicting-heart-disease-using-machine-learning" target="_blank">Predicting Heart Disease using Machine  Learning</a><br>
-    ● <a href="https://www.kaggle.com/code/jebathuraiibarnabas/predicting-used-car-prices-using-machine-learning" target="_blank">Predicting used car prices using Machine Learning</a><br><br>
-    <h4 style='font-family:san-serif;'>ML Algorithms from scratch</h4>
-    ● <a href="https://www.kaggle.com/code/jebathuraiibarnabas/regression-analysis-from-scratch" target="_blank">Regression Analysis from scratch 📈</a><br>
-    ● <a href="https://www.kaggle.com/code/jebathuraiibarnabas/logistic-regression-coding-from-scratch" target="_blank">Logistic Regression coding from scratch</a><br>
-    ● <a href="https://www.kaggle.com/code/jebathuraiibarnabas/decision-tree-id3-from-scratch" target="_blank">Decision Tree ID3 from scratch</a><br>
-    ● <a href="https://www.kaggle.com/code/jebathuraiibarnabas/k-means-clustering-from-scratch" target="_blank">K-Means Clustering from scratch</a><br>
-    ● <a href="https://www.kaggle.com/code/jebathuraiibarnabas/knn-from-scratch-with-visualization" target="_blank">KNN from scratch with visualization</a><br>
-       
-</div><br><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jebathurai-jb&" alt="jebathurai-jb" /></p>
