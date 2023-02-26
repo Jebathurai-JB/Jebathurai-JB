@@ -1,3 +1,6 @@
+![1_4kjFuXTaOdW10y5dkVT4Yg](https://user-images.githubusercontent.com/74975910/221394737-9fc23376-a9df-474b-9cc2-032f667f5e41.gif)
+<br>
+
 <h1 align="center">Hi 👋, I'm Jebathurai I Barnabas</h1>
 <h3 align="center">Aspiring Data Scientist from India</h3>
 <img align='right' alt='coding' width='400' src='https://enacteservices.com/wp-content/themes/twentytwenty/images/hire-developer/animation_500_l4zc9j5g.gif'>
@@ -11,6 +14,10 @@
 - 💬 Ask me about **AI, Machine Learning...**
 
 - 📫 How to reach me **jebathurai2511999@gmail.com**
+
+- 
+
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
