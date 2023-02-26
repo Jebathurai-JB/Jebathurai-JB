@@ -24,10 +24,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jebathurai_jb" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="jebathurai_jb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jebathurai-barnabas" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="jebathurai-barnabas" height="30" width="40" /></a>
-<a href="https://kaggle.com/jebathuraiibarnabas" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="jebathuraiibarnabas" height="30" width="40" /></a>
-<a href="https://instagram.com/jebathurai_jb" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="jebathurai_jb" height="30" width="30" /></a>
+<a href="https://twitter.com/jebathurai_jb" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="jebathurai_jb" height="30" width="40" /></a>&nbsp;
+<a href="https://linkedin.com/in/jebathurai-barnabas" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="jebathurai-barnabas" height="30" width="40" /></a>&nbsp;
+<a href="https://kaggle.com/jebathuraiibarnabas" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="jebathuraiibarnabas" height="30" width="40" /></a>&nbsp;
+<a href="https://instagram.com/jebathurai_jb" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="jebathurai_jb" height="30" width="30" /></a>&nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
