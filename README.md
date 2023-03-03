@@ -1,11 +1,16 @@
-![1_4kjFuXTaOdW10y5dkVT4Yg](https://user-images.githubusercontent.com/74975910/221394737-9fc23376-a9df-474b-9cc2-032f667f5e41.gif)
 
+![animated-interactive-infographics-header-wide](https://user-images.githubusercontent.com/74975910/222761597-3398c3fc-6ddd-4c16-bce4-49b56ab91ebd.gif)
 
 
 <br>
 
-<h1 align="center">Hi 👋, I'm Jebathurai I Barnabas</h1>
-<h3 align="center">Aspiring Data Scientist from India</h3>
+<h1 align="center">Hi... I'm Jebathurai JB <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines= Aspiring Data Scientist &font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+</p>
+
 <img align='right' alt='coding' width='400' src='https://enacteservices.com/wp-content/themes/twentytwenty/images/hire-developer/animation_500_l4zc9j5g.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jebathurai-jb&label=Profile%20views&color=0e75b6&style=flat" alt="jebathurai-jb" /> </p>
@@ -38,3 +43,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jebathurai-jb&show_icons=true&locale=en" alt="jebathurai-jb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jebathurai-jb&" alt="jebathurai-jb" /></p>
+
+
